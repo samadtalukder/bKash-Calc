@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bkash Calc</string>
+    <string name="enter_amount">Enter Amount, Ex 100</string>
+    <string name="amount_tk">Amount TK:</string>
+    <string name="bkash_fee">Bkash Fee TK:</string>
+    <string name="final_amount">Final Amount TK:</string>
+    <string name="amount_tk_result">1000</string>
+    <string name="bkash_fee_result">10</string>
+    <string name="final_amount_result">1010</string>
+</resources>
